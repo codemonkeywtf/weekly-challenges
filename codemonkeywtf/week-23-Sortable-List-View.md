@@ -4,20 +4,20 @@
 Create a budget app targeted toward college students.
 
 ### User Stories
-- [] User can input:
+- [ ] User can input:
     - add budget amount
     - create expense list
     - edit expense items
     - delete expense items
-- [] Users can view:
+- [ ] Users can view:
     - calcualated total expense
     - budget total after expenses
-- [] User data is stored in a database    
-- [] Mobile App
+- [ ] User data is stored in a database    
+- [ ] Mobile App
 
 ### Bonus features (optional)
-- [] Desktop (Vanilla JS option)
-- [] Additional user customization:
+- [ ] Desktop (Vanilla JS option)
+- [ ] Additional user customization:
     - details on transactions:
         - expense (income)amount
         - payee
@@ -32,7 +32,7 @@ Create a budget app targeted toward college students.
             - a - z
             - custom
             - etc.
-- [] Progress indicator  
+- [ ] Progress indicator  
 
 ## Instructions
 - Complete task with any tech stack desired.
@@ -45,7 +45,7 @@ Create a budget app targeted toward college students.
     - calculate total expense
     - receive budget total after expenses
 
-## Useful links and resources (optional)
+## Useful links and resources
 - [Build a Budget App with HTML, CSS, and JS](https://codesource.io/build-a-budget-app-with-html-css-and-javascript/)
 - [Repo](https://github.com/FayVik/budget-app) for Vanilla JS verison
 - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
@@ -53,4 +53,4 @@ Create a budget app targeted toward college students.
 - [.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
 - [for statment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
 
-## Notes (optional)
+## Notes
