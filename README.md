@@ -1,11 +1,11 @@
 # weekly-challenges
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/Hansajith98/hacktoberfest2021/main/Assets/logo-hacktoberfest-full.f42e3b1.svg" width="30%">
+        <img src="https://raw.githubusercontent.com/Hansajith98/hacktoberfest2022/main/Assets/logo-hacktoberfest-full.f42e3b1.svg" width="30%">
     </a>
 </p>
 
-<h1 align="center"> Hacktoberfest 2021 🎉</h1>
+<h1 align="center"> Hacktoberfest 2022 🎉</h1>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
