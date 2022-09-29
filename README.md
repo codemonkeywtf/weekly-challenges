@@ -1,7 +1,7 @@
 # weekly-challenges
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/Hansajith98/hacktoberfest2022/main/Assets/logo-hacktoberfest-full.f42e3b1.svg" width="30%">
+        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--lGJu31oG--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg" width="30%">
     </a>
 </p>
 
