@@ -1,4 +1,4 @@
-# Stopwatch Application
+# Random Meal application
 
 ### DESCRIPTION
 
